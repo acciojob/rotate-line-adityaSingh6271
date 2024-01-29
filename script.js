@@ -1,5 +1,4 @@
 //your JS code here. If required.
- <script>
       const line = document.getElementById("line");
       let angle = 0;
 
